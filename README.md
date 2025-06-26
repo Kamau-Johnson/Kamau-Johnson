@@ -11,7 +11,7 @@
 </h1>
 
 
-<h4 align="center">Computer Scientist | | Data Science Practioner |  | Web Developer |  | Cybersecurity Analyst | | Graphics Designer</h4>
+<h4 align="center">CS Graduate | | Data Science |  | Software Developer </h4>
 
 ---
 
