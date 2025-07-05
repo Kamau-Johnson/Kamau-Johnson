@@ -143,33 +143,37 @@ I started as a self‑taught developer, driven by curiosity and determination. A
 
 
 <div align="center">
-
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.linkedin.com/in/kamau-johnson-4bab25276/">
+        <a href="https://github.com/Kamau-Johnson" title="GitHub">
+          <img src="https://img.icons8.com/color/50/111111/github.png" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.linkedin.com/in/kamau-johnson-4bab25276/" title="LinkedIn">
           <img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="LinkedIn"/>
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.youtube.com/@Kamau_Johnson">
+        <a href="https://kamaujohnson.netlify.app/" title="My Portfolio Website">
+          <img src="https://raw.githubusercontent.com/Kamau-Johnson/Kamau-Johnson/main/My%20image.JPG" width="50" height="50" style="border-radius: 50%;" alt="My Website"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.youtube.com/@Kamau_Johnson" title="YouTube">
           <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="YouTube"/>
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://medium.com/@Kamau_Johnson">
+        <a href="https://medium.com/@Kamau_Johnson" title="Medium">
           <img src="https://img.icons8.com/color/50/111111/medium-monogram.png" alt="Medium"/>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://github.com/Kamau-Johnson">
-          <img src="https://img.icons8.com/color/50/111111/github.png" alt="GitHub"/>
         </a>
       </td>
     </tr>
   </table>
-
 </div>
+
 
 
 
