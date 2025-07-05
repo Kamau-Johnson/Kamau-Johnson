@@ -19,7 +19,9 @@
 
 **Who am I**  
 Johnson is a tech-savvy and driven Computer Science graduate passionate about building impactful software solutions. Now stepping confidently into the field of Data Science, he leverages his strong problem-solving foundation to extract insights, build intelligent models, and innovate through data-powered technologies.
+
 Beyond academics and personal projects, he is an avid hackathon enthusiast, having participated in four local hackathons and was proud to win one at the Nairobi County Web3 and Blockchain Hackathon. There, he led the development of a tokenized waste recycling system, combining innovation and social impact.
+
 A strong team player and lifelong learner, Johnson thrives in collaborative environments and is always open to contributing to impactful tech projects and exploring new opportunities in Data Science and Software Development.
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
