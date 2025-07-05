@@ -117,7 +117,7 @@ I started as a self‑taught developer, driven by curiosity and determination. A
   <a href="https://www.linkedin.com/in/kamau-johnson/">
     <img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="https://www.youtube.com/@YourChannelUsername">
+  <a href="https://www.youtube.com/@Kamau_Johnson">
     <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="youtube"/>
   </a>
   <a href="https://medium.com/@yourmediumusername">
@@ -127,5 +127,6 @@ I started as a self‑taught developer, driven by curiosity and determination. A
     <img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/>
   </a>
 </p>
+
 
 
