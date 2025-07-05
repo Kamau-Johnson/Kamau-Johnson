@@ -115,22 +115,42 @@ I started as a self‑taught developer, driven by curiosity and determination. A
 
 <div align="center">
 
-### <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Contact-ESHFirSSF5aehivXidpwXLCURbMlZb.png" width="100"> Let Connect
-*Let's connect over a video call*
-<p>
-  <a href="https://www.linkedin.com/in/kamau-johnson/">
-    <img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/>
-  </a>
-  <a href="https://www.youtube.com/@Kamau_Johnson">
-    <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="youtube"/>
-  </a>
-  <a href="https://medium.com/@yourmediumusername">
-    <img src="https://img.icons8.com/color/50/111111/medium-monogram.png" alt="medium"/>
-  </a>
-  <a href="https://github.com/Kamau-Johnson">
-    <img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/>
-  </a>
-</p>
+<div align="center">
+
+  <h3>
+    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Contact-ESHFirSSF5aehivXidpwXLCURbMlZb.png" width="80" style="border-radius: 80%; vertical-align: middle;" alt="Let's Connect Icon">
+    <span style="vertical-align: middle;">Let’s Connect</span>
+  </h3>
+
+  <p><em>Let's connect over a video call</em></p>
+
+
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.linkedin.com/in/kamau-johnson/">
+          <img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.youtube.com/@Kamau_Johnson">
+          <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="youtube"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://medium.com/@yourmediumusername">
+          <img src="https://img.icons8.com/color/50/111111/medium-monogram.png" alt="medium"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/Kamau-Johnson">
+          <img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 
 
