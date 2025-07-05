@@ -15,8 +15,7 @@
 
 ---
 
-
-### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> About Me
+### About Me <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="80"> 
 **Who am I**  
 Johnson is a tech-savvy and driven Computer Science graduate passionate about building impactful software solutions. Now stepping confidently into the field of Data Science, he leverages his strong problem-solving foundation to extract insights, build intelligent models, and innovate through data-powered technologies.
 
@@ -66,18 +65,6 @@ I started as a self‑taught developer, driven by curiosity and determination. A
 
 -----
 
-## GitHub Achievements
-
-<!-- GitHub Trophies Section -->
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Kamau-Johnson&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" 
-    alt="GitHub Trophies" 
-    style="max-width: 100%; height: auto;"
-  />
-</div>
-
-
 ### Beyond Code
 
 </div>
@@ -109,7 +96,7 @@ I started as a self‑taught developer, driven by curiosity and determination. A
 
 ---
 
-## Contribution Activity
+### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> Contribution Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
@@ -122,7 +109,10 @@ I started as a self‑taught developer, driven by curiosity and determination. A
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Thanks+for+visiting;Let's+build+something+amazing+together" />
 </div>
 
-### <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="80"> Let's Connect
+<div align="center">
+
+### <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Contact-ESHFirSSF5aehivXidpwXLCURbMlZb.png" width="100"> Let Connect
+*Let's connect over a video call*
 <p>
   <a href="https://www.linkedin.com/in/kamau-johnson/">
     <img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/>
