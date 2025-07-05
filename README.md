@@ -15,8 +15,8 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
+### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> About Me
 **Who am I**  
 Johnson is a tech-savvy and driven Computer Science graduate passionate about building impactful software solutions. Now stepping confidently into the field of Data Science, he leverages his strong problem-solving foundation to extract insights, build intelligent models, and innovate through data-powered technologies.
 
@@ -27,54 +27,44 @@ A strong team player and lifelong learner, Johnson thrives in collaborative envi
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
 </div>
 
-**My Journey**  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Journey
 I started as a self‑taught developer, driven by curiosity and determination. After earning a Diploma in Computer Science from [**Zetech University**](https://www.zetech.ac.ke), I'm now pursuing my Bachelor's in Computer Science at the [**Catholic University of Eastern Africa**](https://www.cuea.edu), set to graduate in 2027. Through internships at [**Future Interns**](https://futureinterns.com), [**Code Alpha**](https://www.codealpha.tech/internship.html), [**CodSoft**](https://www.codsoft.in), and an industrial attachment at [**Agro Chemical & Food Company Limited (ACFC)**](https://acfc.co.ke), I’ve gained hands‑on experience in cybersecurity, Python development, and system security.
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Progress Stats
-This section highlights my GitHub contributions and top programming languages, offering a quick snapshot of my development journey and skillset.
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamau-johnson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="Kamau Johnson's GitHub stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamau-johnson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="Kamau Johnson's top languages"  />
-</div>
-<div align="center">
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> GitHub Stats
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kamau-Johnson&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false" width="380px" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamau-Johnson&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" width="400px" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamau-johnson&locale=en&layout=compact&card_width=500&langs_count=5&theme=tokyonight&hide_border=false" height="180px" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-## DEVELOPER STATS DASHBOARD
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td align="center"> 
-        <img src="https://img.shields.io/badge/%20TECH%20STACK-5%20Tools-blueviolet?style=for-the-badge&logo=appveyor&labelColor=111111" /><br /> 
-        <sub><b>Core Technologies</b></sub> 
-      </td> 
-      <td align="center"> 
-        <img src="https://img.shields.io/badge/%20PROJECTS%20BUILT-15%2B-success?style=for-the-badge&logo=github&labelColor=111111" /><br /> 
-        <sub><b>Projects Done</b></sub> 
-      </td> 
-      <td align="center"> 
-        <img src="https://img.shields.io/badge/%20PROFICIENCY-55%25-00bfff?style=for-the-badge&logo=codeforces&labelColor=111111" /><br /> 
-        <sub><b>Performance Score</b></sub> 
-      </td> 
-      <td align="center"> 
-        <img src="https://img.shields.io/badge/%20EXPERIENCE-6 Months%2B%20-orange?style=for-the-badge&logo=clockify&labelColor=111111" /><br /> 
-        <sub><b>In the Field</b></sub> 
-      </td> 
-    </tr> 
-  </table> 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" />
+</p>
 
-<div align="left">
 
-## Tech Stack
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tech Stack
+
+<div align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 
+-----
 ## GitHub Achievements
 
 <!-- GitHub Trophies Section -->
@@ -94,9 +84,6 @@ This section highlights my GitHub contributions and top programming languages, o
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
   style="border-radius: 12px; margin-left: 10px;"
 />
-
-<!-- Optional Divider -->
-<hr style="border: none; border-top: 2px dashed #6c63ff; margin: 40px 0;" />
 
 
 ### Beyond Code
@@ -142,3 +129,11 @@ This section highlights my GitHub contributions and top programming languages, o
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Thanks+for+visiting;Let's+build+something+amazing+together" />
 </div>
+
+### <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"> Let's Connect
+<p>
+  <a href="https://twitter.com/Kimutai_01?t=liw9aVN4UD5KG2V7RpThMw&s=09"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/kimutai-kiprotich-1b5045216"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/Kimutai01"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  <a href="https://stackoverflow.com/users/16348210/kiprotich-kimutai"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
+</p>
