@@ -65,7 +65,11 @@ I started as a self‑taught developer, driven by curiosity and determination. A
 
 -----
 
-### Beyond Code
+<h3 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" />
+  Beyond Coding
+</h3>
+
 
 </div>
 
