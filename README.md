@@ -27,7 +27,7 @@ A strong team player and lifelong learner, Johnson thrives in collaborative envi
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Journey
-I started as a self‑taught developer, driven by curiosity and determination. After earning a Diploma in Computer Science from [**Zetech University**](https://www.zetech.ac.ke), I'm now pursuing my Bachelor's in Computer Science at the [**Catholic University of Eastern Africa**](https://www.cuea.edu), set to graduate in 2027. Through internships at [**Future Interns**](https://futureinterns.com), [**Code Alpha**](https://www.codealpha.tech/internship.html), [**CodSoft**](https://www.codsoft.in), and an industrial attachment at [**Agro Chemical & Food Company Limited (ACFC)**](https://acfc.co.ke), I’ve gained hands‑on experience in cybersecurity, Python development, and system security.
+I started as a self‑taught developer, driven by curiosity and determination. After earning a Diploma in Computer Science from [**Zetech University**](https://www.zetech.ac.ke), I'm now pursuing my Bachelor's in Computer Science at the [**Catholic University of Eastern Africa**](https://www.cuea.edu), set to graduate in 2027. Through internships at [**Future Interns**](https://futureinterns.com), [**Code Alpha**](https://www.codealpha.tech/internship.html), [**CodSoft**](https://www.codsoft.in), and an industrial attachment at [**Agro Chemical & Food Company Limited (ACFC)**](https://acfc.co.ke), I’ve gained hands‑on experience in Data Science and Software Development.
 
 ---
 
