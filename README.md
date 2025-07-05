@@ -139,8 +139,6 @@ I started as a self‑taught developer, driven by curiosity and determination. A
     <span style="vertical-align: middle;">Let’s Connect</span>
   </h3>
 
-  <p><em>Let's connect over a video call</em></p>
-
 
 <div align="center">
   <table>
@@ -156,8 +154,8 @@ I started as a self‑taught developer, driven by curiosity and determination. A
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://kamaujohnson.netlify.app/" title="My Portfolio Website">
-          <img src="https://raw.githubusercontent.com/Kamau-Johnson/Kamau-Johnson/main/My%20image.JPG" width="50" height="50" style="border-radius: 50%;" alt="My Website"/>
+        <a href="https://kamaujohnson.netlify.app/" title="Portfolio Website">
+          <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/My_image-removebg-preview-P3GIWJKnuIKEKmegnziosCSCAR8F7Z.png" width="50" height="50" style="border-radius: 50%; border: 4px solid #000000; box-shadow: 0 0 0 2px #000000;" alt="Portfolio"/>
         </a>
       </td>
       <td align="center" style="padding: 10px;">
@@ -174,7 +172,4 @@ I started as a self‑taught developer, driven by curiosity and determination. A
   </table>
 </div>
 
-
-
-
-
+<p><em>Let’s grab a virtual coffee sometime</em></p>
