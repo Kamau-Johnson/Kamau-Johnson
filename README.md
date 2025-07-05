@@ -18,8 +18,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 **Who am I**  
-Johnson is a tech-savvy problem solver and soon-to-be Computer Science graduate with expertise in software development, cybersecurity, and data science. He combines technical precision with creative design to build secure, user-focused digital solutions. Passionate about solving real-world problems, Johnson focuses on writing clean, maintainable code, designing intuitive interfaces, and engineering future-ready systems. Always adapting to new technologies, he aims to make a lasting impact in the fast‑evolving tech world.
+Johnson is a tech-savvy and driven Computer Science graduate passionate about building impactful software solutions. Now stepping confidently into the field of Data Science, he leverages his strong problem-solving foundation to extract insights, build intelligent models, and innovate through data-powered technologies.
 
+Beyond academics and personal projects, he is an avid hackathon enthusiast, having participated in four local hackathons and was proud to win one at the Nairobi County Web3 and Blockchain Hackathon. There, he led the development of a tokenized waste recycling system, combining innovation and social impact.
+
+A strong team player and lifelong learner, Johnson thrives in collaborative environments and is always open to contributing to impactful tech projects and exploring new opportunities in Data Science and Software Development.
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
 </div>
