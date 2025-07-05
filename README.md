@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Kamau+Johnson;Computer+Scientist;Data+Science+Practitioner;Web+Developer;Cyber+Security+Analyst;Graphics+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Kamau+Johnson;CS+Graduate;Data+Scientist;Software+Developer;" alt="Typing SVG" />
 </h1>
 
 
@@ -65,6 +65,7 @@ I started as a self‑taught developer, driven by curiosity and determination. A
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 
 -----
+
 ## GitHub Achievements
 
 <!-- GitHub Trophies Section -->
@@ -75,15 +76,6 @@ I started as a self‑taught developer, driven by curiosity and determination. A
     style="max-width: 100%; height: auto;"
   />
 </div>
-
-<!-- Animated GIF Section -->
-<img 
-  align="right" 
-  height="200" 
-  alt="Coding Animation" 
-  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-  style="border-radius: 12px; margin-left: 10px;"
-/>
 
 
 ### Beyond Code
@@ -130,10 +122,20 @@ I started as a self‑taught developer, driven by curiosity and determination. A
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Thanks+for+visiting;Let's+build+something+amazing+together" />
 </div>
 
-### <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"> Let's Connect
+### <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="80"> Let's Connect
 <p>
-  <a href="https://twitter.com/Kimutai_01?t=liw9aVN4UD5KG2V7RpThMw&s=09"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/kimutai-kiprotich-1b5045216"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
-  <a href="https://github.com/Kimutai01"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
-  <a href="https://stackoverflow.com/users/16348210/kiprotich-kimutai"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://www.linkedin.com/in/kamau-johnson/">
+    <img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="https://www.youtube.com/@YourChannelUsername">
+    <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="youtube"/>
+  </a>
+  <a href="https://medium.com/@yourmediumusername">
+    <img src="https://img.icons8.com/color/50/111111/medium-monogram.png" alt="medium"/>
+  </a>
+  <a href="https://github.com/Kamau-Johnson">
+    <img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/>
+  </a>
 </p>
+
+
