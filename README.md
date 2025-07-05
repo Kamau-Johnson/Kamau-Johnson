@@ -72,66 +72,11 @@ This section highlights my GitHub contributions and top programming languages, o
 
 ## Tech Stack
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Frontend End Stack
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="40" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="40" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40" alt="javascript" />
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 
-  <!--
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="40" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="40" height="40" alt="tailwind" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40" height="40" alt="bootstrap" />
-  -->
-</div>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> Backend End Stack
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40" alt="python" />
-
-  <!--
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="40" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" width="40" height="40" alt="express" />
-  <img width="12" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" width="40" height="40" alt="django" />
-  <img width="12" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" width="40" height="40" alt="fastapi" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40" height="40" alt="php" />
-  <img width="12" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" width="40" height="40" alt="laravel" />
-  -->
-</div>
-
-<!-- ### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Database Stack
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257481-9e9d10da-7a7c-4f33-8935-413d6713e0de.gif" width="40" height="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257479-1d67b58c-02c4-4249-b925-3f2a2d3824ac.gif" width="40" height="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257474-0c8e4c4e-7b7b-4f3f-9f3e-6e7a5a5a5a5a.gif" width="40" height="40" alt="mongodb" />
-  <img width="12" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" height="40" alt="sqlite" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257480-0319cc2c-04c6-4314-bca0-e94d33e09557.gif" width="40" height="40" alt="redis" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="40" height="40" alt="firebase" />
-</div>
-
- -->
-
----
 
 ## GitHub Achievements
 
