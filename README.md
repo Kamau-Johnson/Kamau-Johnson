@@ -142,32 +142,35 @@ I started as a self‑taught developer, driven by curiosity and determination. A
   <p><em>Let's connect over a video call</em></p>
 
 
+<div align="center">
+
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.linkedin.com/in/kamau-johnson/">
-          <img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/>
+        <a href="https://www.linkedin.com/in/kamau-johnson-4bab25276/">
+          <img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="LinkedIn"/>
         </a>
       </td>
       <td align="center" style="padding: 10px;">
         <a href="https://www.youtube.com/@Kamau_Johnson">
-          <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="youtube"/>
+          <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="YouTube"/>
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://medium.com/@yourmediumusername">
-          <img src="https://img.icons8.com/color/50/111111/medium-monogram.png" alt="medium"/>
+        <a href="https://medium.com/@Kamau_Johnson">
+          <img src="https://img.icons8.com/color/50/111111/medium-monogram.png" alt="Medium"/>
         </a>
       </td>
       <td align="center" style="padding: 10px;">
         <a href="https://github.com/Kamau-Johnson">
-          <img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/>
+          <img src="https://img.icons8.com/color/50/111111/github.png" alt="GitHub"/>
         </a>
       </td>
     </tr>
   </table>
 
 </div>
+
 
 
 
