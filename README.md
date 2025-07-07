@@ -134,10 +134,12 @@ I started as a self‑taught developer, driven by curiosity and determination. A
 
 <div align="center">
 
-<h3>
-  <img src="images/contact.png" width="80" style="border-radius: 50%; vertical-align: middle;" alt="Let's Connect Icon">
-  <span style="vertical-align: middle;">Let’s Connect</span>
-</h3>
+<div style="text-align: center;">
+  <img src="Contact Images.png" width="100" style="border-radius: 80%; display: block; margin: 0 auto;" alt="Let's Connect Icon">
+  <h3 style="margin-top: 10px;">Let’s Connect</h3>
+</div>
+
+
 
 
 
