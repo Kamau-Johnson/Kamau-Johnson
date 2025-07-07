@@ -134,10 +134,12 @@ I started as a self‑taught developer, driven by curiosity and determination. A
 
 <div align="center">
 
-  <h3>
-    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Contact-ESHFirSSF5aehivXidpwXLCURbMlZb.png" width="80" style="border-radius: 80%; vertical-align: middle;" alt="Let's Connect Icon">
-    <span style="vertical-align: middle;">Let’s Connect</span>
-  </h3>
+<h3>
+  <img src="images/contact.png" width="80" style="border-radius: 50%; vertical-align: middle;" alt="Let's Connect Icon">
+  <span style="vertical-align: middle;">Let’s Connect</span>
+</h3>
+
+
 
 
 <div align="center">
