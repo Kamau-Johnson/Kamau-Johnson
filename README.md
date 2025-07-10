@@ -158,7 +158,7 @@ I started as a self‑taught developer, driven by curiosity and determination. A
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://kamaujohnson.netlify.app/" title="Portfolio Website">
+        <a href="https://kamaujohnson.dev/" title="Portfolio Website">
           <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/My_image-removebg-preview-P3GIWJKnuIKEKmegnziosCSCAR8F7Z.png" width="50" height="50" style="border-radius: 50%; border: 4px solid #000000; box-shadow: 0 0 0 2px #000000;" alt="Portfolio"/>
         </a>
       </td>
