@@ -7,11 +7,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Kamau+Johnson;CS+Graduate;Data+Scientist;Software+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Kamau+Johnson;ML+Engineer;Data+Scientist;Software+Developer;" alt="Typing SVG" />
 </h1>
 
 
-<h4 align="center">CS Graduate | | Data Science |  | Software Developer </h4>
+<h4 align="center">CS Graduate | | ML Engineer | | Data Science | | Software Developer </h4>
 
 ---
 
