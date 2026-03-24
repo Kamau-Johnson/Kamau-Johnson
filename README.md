@@ -11,7 +11,7 @@
 </h1>
 
 
-<h4 align="center">CS Graduate | | ML Engineer | | Data Science | | Software Developer </h4>
+<h4 align="center">ML Engineer | | Data Science | | Software Developer </h4>
 
 ---
 
