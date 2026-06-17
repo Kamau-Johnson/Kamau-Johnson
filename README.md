@@ -163,9 +163,9 @@ I started as a self‑taught developer, driven by curiosity and determination. A
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.youtube.com/@Kamau_Johnson" title="YouTube">
-          <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="YouTube"/>
-        </a>
+      <a href="https://www.youtube.com/@OfficialKamauJohnson" title="YouTube">
+      <img src="https://img.icons8.com/color/50/111111/youtube-play.png" alt="YouTube"/>
+      </a>
       </td>
       <td align="center" style="padding: 10px;">
         <a href="https://medium.com/@Kamau_Johnson" title="Medium">
